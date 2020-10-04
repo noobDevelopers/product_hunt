@@ -38,6 +38,7 @@ A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
    7.Submit a pull request 😄
 
 
+### If you had fun, consider to give a star ⭐ to this repository
   
 
   
