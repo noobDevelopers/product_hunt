@@ -1,5 +1,10 @@
 # product_hunt
+![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
+
 A basic clone of Product Hunt website
+
+
 
 # Tools/Languages Used
   
