@@ -1,7 +1,7 @@
 # Product Hunt Clone
 ![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
-![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework)
+![tensorflow](https://aleen42.github.io/badges/src/tensorflow.svg)
 
 A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
 
