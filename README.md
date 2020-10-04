@@ -1,9 +1,9 @@
-# product_hunt
+# Product Hunt Clone
 ![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
 ![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework)
 
-A basic clone of Product Hunt website
+A basic clone of <a href="https://www.producthunt.com/">Product</a> Hunt website
 
 
 
