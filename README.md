@@ -3,7 +3,7 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
 ![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework)
 
-A basic clone of <a href="https://www.producthunt.com/">Product</a> Hunt website
+A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
 
 
 
@@ -23,6 +23,22 @@ A basic clone of <a href="https://www.producthunt.com/">Product</a> Hunt website
   * Django for backend
   * Basic CSS/HTML for frontend
   * Python
+  
+# Getting Started
+
+   1.Fork it!
+
+   2.Clone the forked repository to local system.
+   
+   3.Read issues and solve it, or add your own issues 😊
+
+   4.Commit your changes: git commit -m 'Add some feature'.
+
+   5.Push to the feature branch
+
+   7.Submit a pull request 😄
+
+
   
 
   
