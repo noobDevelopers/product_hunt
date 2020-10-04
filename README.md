@@ -9,8 +9,8 @@ A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
 
 # Tools/Languages Used
   
-  * Django framework(Python based) is used as a backend <a href='#'>See Tutorial Here</a>
-  * HTML/CSS, JavaScript <a href='#'>See Tutorial Here</a>
+  * Django framework(Python based) is used as a backend
+  * HTML/CSS, JavaScript
   
 # Images
 
