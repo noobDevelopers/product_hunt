@@ -37,6 +37,8 @@ A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
    5.Push to the <a href="https://github.com/noobDevelopers/product_hunt/tree/feature">feature</a> branch
 
    7.Submit a pull request 😄
+   
+### If you had fun, consider to give a star ⭐ to this repository
 
 
   
