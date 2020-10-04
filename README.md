@@ -1,6 +1,7 @@
 # product_hunt
 ![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
+![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework)
 
 A basic clone of Product Hunt website
 
@@ -23,10 +24,6 @@ A basic clone of Product Hunt website
   * Basic CSS/HTML for frontend
   * Python
   
-# What you will learn after completing this project?
-  * Basic Authentication using django
-  * Adding dynamic year in footer ;) 
-  * Using postgres
 
   
   
