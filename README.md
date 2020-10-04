@@ -1,7 +1,11 @@
 # Product Hunt Clone
 ![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/product_hunt)
-![tensorflow](https://aleen42.github.io/badges/src/tensorflow.svg)
+![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 A basic clone of <a href="https://www.producthunt.com/">Product Hunt</a> website
 
